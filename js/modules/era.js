@@ -14,7 +14,7 @@ define(['jquery'], function($) {
 			});
 
 			era.toggleClass('open closed');
-			$('.periods', era).slideToggle();
+			$('.periods', era).slideToggle(500);
 		}
 	}
 

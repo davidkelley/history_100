@@ -60,10 +60,34 @@ define(['jquery', 'module'], function($, module) {
 		checkOrder: function(el) {
 			if (period.prev().length == 0) {
 				$(el).addClass('no-prev');
+				return false;
 			}
 
 			if (period.next().length == 0) {
 				$(el).addClass('no-next');
+				return false;
+			}
+
+			return true;
+		},
+
+		getSrc: function(el) {
+			var image = $('image', el).text();
+			var folder = era.replace(' ','-').toLowerCase();
+			return config.imageDir + folder + '/' + image;
+		},
+
+		preLoad: function() {
+			if (period.next().length != 0) {
+				var next = new Image();
+				next.src = this.getSrc(period.next());
+				next.load = function() { delete(next) };
+			}
+
+			if (period.prev().length != 0) {
+				var prev = new Image();
+				prev.src = this.getSrc(period.prev());
+				prev.load = function() { delete(prev) };
 			}
 		},
 
@@ -83,6 +107,7 @@ define(['jquery', 'module'], function($, module) {
 					that.animate.fromRight(e, 'popup');
 					that.animate.fromRight(bg, 'background');
 					that.checkOrder(e);
+					that.preLoad();
 				});
 			});
 		},
@@ -102,6 +127,7 @@ define(['jquery', 'module'], function($, module) {
 				that.animate.fromRight(bg, 'background');
 
 				that.checkOrder(el);
+				that.preLoad();
 			});
 		},
 
@@ -120,6 +146,7 @@ define(['jquery', 'module'], function($, module) {
 				that.animate.fromLeft(bg, 'background');
 
 				that.checkOrder(el);
+				that.preLoad();
 			});
 		},
 
@@ -131,16 +158,13 @@ define(['jquery', 'module'], function($, module) {
 				description: $('description', el).text().trim()
 			};
 
-			var image = $('image', el).text();
-			var folder = era.replace(' ','-').toLowerCase();
-			image = config.imageDir + folder + '/' + image;
-
+			var src = this.getSrc(el);
 			var background = $('#period-background').text().trim();
 			var template = $('#period-popup').text().trim();
 
 			require(['helpers/renderer'], function(render) {
 
-				var bg = $(render(background, {image:image}));
+				var bg = $(render(background, {image:src}));
 				var popup = $(render(template, obj));
 
 				backgrounds.append(bg);
@@ -160,7 +184,7 @@ define(['jquery', 'module'], function($, module) {
 				var pos = config.positions[type];
 
 				$(el).css({left:pos.right});
-				$(el).animate({left:pos.middle}, timing, function() {
+				$(el).animate({left:pos.middle}, timing, 'swing', function() {
 					$(el).addClass('visible');
 				});
 			},
@@ -170,7 +194,7 @@ define(['jquery', 'module'], function($, module) {
 				var pos = config.positions[type];
 
 				$(el).css({left:pos.left});
-				$(el).animate({left:pos.middle}, timing, function() {
+				$(el).animate({left:pos.middle}, timing, 'swing', function() {
 					$(el).addClass('visible');
 				});
 			},
@@ -179,7 +203,7 @@ define(['jquery', 'module'], function($, module) {
 				var timing = config.timing[type];
 				var pos = config.positions[type];
 
-				$(el).animate({left:pos.left}, timing, function() {
+				$(el).animate({left:pos.left}, timing, 'swing', function() {
 					$(el).remove();
 				});
 			},
@@ -188,7 +212,7 @@ define(['jquery', 'module'], function($, module) {
 				var timing = config.timing[type];
 				var pos = config.positions[type];
 
-				$(el).animate({left:pos.right}, timing, function() {
+				$(el).animate({left:pos.right}, timing, 'swing', function() {
 					$(el).remove();
 				});
 			},

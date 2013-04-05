@@ -61,6 +61,9 @@
         <div id="backgrounds">
         </div>
 
+        <div id="overlay">
+        </div>
+
         <div id="popup-container">
         </div>
 
@@ -82,10 +85,10 @@
                 <div class="era closed">
                     <h2 data-event="click" data-action="era/toggle">
                         <?= $era->attributes()->name ?>
-                        <div class="arrow-container">
-                            <div class="arrow down"></div>
-                            <div class="arrow up"></div>
-                        </div>
+                        <span class="arrow">
+                            <span class="left"></span>
+                            <span class="right"></span>
+                        </span>
                     </h2>
                     <div class="periods">
                         <? foreach($era->period as $period): ?>
@@ -114,7 +117,7 @@
         </script>
 
         <script>
-            var _gaq=[['_setAccount','UA-39343545-1'],['_trackPageview']];
+            var _gaq=[['_setAccount','UA-15657555-1'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
             g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
             s.parentNode.insertBefore(g,s)}(document,'script'));
