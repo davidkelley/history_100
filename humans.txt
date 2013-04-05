@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+	Chef: Jonathan Kelley
+	Contact: hello [at] jonathankelley.me
+	Twitter:
+	From: Liverpool, Merseyside, United Kingdom
+
+	Web developer: David Kelley
+	Site: www.davidkelley.me
+	Contact: hello [at] davidkelley.me
+	Twitter: @davidkelley87
+	From: Liverpool, Merseyside, United Kingdom
+
+/* SITE */
+
+    Doctype: HTML5
+    Standards: HTML5, CSS3
+    Language: English
+    Software: Sublime Text, Photoshop, TinyPNG
+    Components: jQuery, RequireJS, Modernizr, Scrollorama

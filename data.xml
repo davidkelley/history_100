@@ -1,0 +1,811 @@
+<?xml version="1.0" ?>
+<art>
+	<era name="Early History">
+		<period>
+			<title>Imagination</title>
+			<wiki>http://en.wikipedia.org/wiki/Imagination</wiki>
+			<image>Imagination.jpg</image>
+			<description>
+			Imagination is the ability to create a fantasy in one’s head. Scholars debate when exactly our species gained the capacity for imagination, but there is no doubt of its importance in establishing early artwork.
+			</description>
+		</period>
+		<period>
+			<title>Cave Paintings</title>
+			<wiki>http://en.wikipedia.org/wiki/Cave_painting</wiki>
+			<image>Cave_Paintings.jpg</image>
+			<description>
+				Discovered around the world, (the earliest of which are from Europe 40,000 years ago), Cave Paintings are both the earliest examples of recorded history and of artwork.
+			</description>
+		</period>
+		<period>
+			<title>Engraving</title>
+			<wiki>http://en.wikipedia.org/wiki/Engraving</wiki>
+			<image>Engraving.jpg</image>
+			<description>
+				Engraving is the artwork of carving out a design in a surface, which can then be used in printing. Engraving was first used in the Stone Age, but was popular in the Middle Ages.
+			</description>
+		</period>
+		<period>
+			<title>Handicrafts</title>
+			<wiki>http://en.wikipedia.org/wiki/Handicraft</wiki>
+			<image>Handicrafts.jpg</image>
+			<description>
+				Handicrafts are any form of decorative piece, useful or artistic, created by hand using simple tools. Handicrafting began in India over 5,000 years ago.
+			</description>
+		</period>
+		<period>
+			<title>Megaliths</title>
+			<wiki>http://en.wikipedia.org/wiki/Megalith</wiki>
+			<image>Megaliths.jpg</image>
+			<description>
+				Megaliths are large stone structures constructed mainly in the Neolithic Age. The most famous Megalith is Stonehenge, located in England.
+			</description>
+		</period>
+		<period>
+			<title>Migration Period Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Migration_Period_art</wiki>
+			<image>Migration_Period_Art.jpg</image>
+			<description>
+				The Migration Period involved the spread of Germanic peoples across Europe after the collapse of the Roman Empire. The art in this period was therefore portable, functional, and personal.
+			</description>
+		</period>
+		<period>
+			<title>Celtic Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Celtic_art</wiki>
+			<image>Celtic_Art.jpg</image>
+			<description>
+				The Celts, a civilization of Celtic speakers during the Iron Age and Medieval times, created a wide expanse of art. Notable examples of this style include High Crosses and the Book of Kells.
+			</description>
+		</period>
+		<period>
+			<title>Cuneiform</title>
+			<wiki>http://en.wikipedia.org/wiki/Cuneiform</wiki>
+			<image>Cuneiform.jpg</image>
+			<description>
+				An early example of written language that used pictograms, Cuneiform has been recovered from stone tablets dating from the early Bronze Age.
+			</description>
+		</period>
+		<period>
+			<title>Egyptian Hieroglyphs</title>
+			<wiki>http://en.wikipedia.org/wiki/Egyptian_hieroglyphs</wiki>
+			<image>Egyptian_Hieroglyphs.jpg</image>
+			<description>
+				The Ancient Egyptians used hieroglyphs, a combination of visual symbols, images and text, as their system of writing. A modern understanding of hieroglyphs was achieved with the discovery of the Rosetta Stone.
+			</description>
+		</period>
+		<period>
+			<title>Art of Ancient Egypt</title>
+			<wiki>http://en.wikipedia.org/wiki/Art_of_ancient_Egypt</wiki>
+			<image>Art_of_Ancient_Egypt.jpg</image>
+			<description>
+				The art in Ancient Egypt focused on depictions of Gods, Pharaohs, and historical events through wall painting, sculptures, and pottery.
+			</description>
+		</period>
+		<period>
+			<title>Art of Mesopotamia</title>
+			<wiki>http://en.wikipedia.org/wiki/Art_of_Mesopotamia</wiki>
+			<image>Art_of_Mesopotamia.jpg</image>
+			<description>
+				Mesopotamian Art consisted of many fields, with an emphasis on sculpturing. Some painting was involved for decoration, most notably in the Ishtar Gate.
+			</description>
+		</period>
+		<period>
+			<title>Art of Ancient Greece</title>
+			<wiki>http://en.wikipedia.org/wiki/Ancient_Greek_Art</wiki>
+			<image>Ancient_Greek_Art1.jpg</image>
+			<description>
+				The ancient Greeks expressed their art through sculpture, pottery, and architecture. The pottery, which went through several periods such as “Black Figure,” was as functional as it was decorative. The Parthenon is the most famous example of Ancient Greek architecture.
+			</description>
+		</period>
+		<period>
+			<title>Hellenistic Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Hellenistic_art</wiki>
+			<image>Hellenistic_Art.jpg</image>
+			<description>
+				The Hellenistic period was a prosperous time in Ancient Greece. The art produced in this time included advances in sculpturing, for example, the Venus de Milo.
+			</description>
+		</period>
+		<period>
+			<title>Roman Mythology</title>
+			<wiki>http://en.wikipedia.org/wiki/Roman_mythology</wiki>
+			<image>Roman_Mythology.jpg</image>
+			<description>
+				Much of Roman Mythology emerged from that of the Greek and Etruscans. Many of these myths, such as the founding of Rome by Romulus and Remus and the role of Gods in society, featured prominently in Roman works of Art.
+			</description>
+		</period>
+		<period>
+			<title>Roman Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Roman_Art</wiki>
+			<image>Roman_Art.jpg</image>
+			<description>
+				The Romans were great admirers of Ancient Greek culture and art, and so a great deal of their early work was based off of it. Romans particularly excelled in their own right at portraiture and architecture.
+			</description>
+		</period>
+		<period>
+			<title>Late Antiquity</title>
+			<wiki>http://en.wikipedia.org/wiki/Late_Antiquity#Sculpture_and_art</wiki>
+			<image>Late_Antiquity.jpg</image>
+			<description>
+				The Late Antique Period was the transition from Classical Antiquity to the Middle ages, and so the art in this period was similarly a transition from art inspired by Ancient Greek art to the early Christian art of the Middle Ages.
+			</description>
+		</period>
+	</era>
+	<era name="Christian Art">
+		<period>
+			<title>Resurrection of Jesus</title>
+			<wiki>http://en.wikipedia.org/wiki/Resurrection_of_Jesus_in_art</wiki>
+			<image>Resurrection_of_Jesus.jpg</image>
+			<description>
+				According to Christian faith, Jesus resurrected three days after his death. Because this is such a pivotal moment for the religion, the resurrection was a popular art subject for centuries.
+			</description>
+		</period>
+		<period>
+			<title>Christian Iconography</title>
+			<wiki>http://en.wikipedia.org/wiki/Christian_iconography#Christian_iconography</wiki>
+			<image>Christian_iconography.jpg</image>
+			<description>
+				Iconography is the study of the meaning of images in artwork. For example, the depiction of Christ in art began using iconography borrowed from Roman and Greek times.
+			</description>
+		</period>
+		<period>
+			<title>The Natural History</title>
+			<wiki>http://en.wikipedia.org/wiki/Natural_History_%28Pliny%29</wiki>
+			<image>The_Natural_History.jpg</image>
+			<description>
+				The Natural History, written by Pliny the Elder, is an early encyclopaedia published around 80 A.D. The sections on Art History provide a valuable insight to the artwork of the time.
+			</description>
+		</period>
+		<period>
+			<title>Byzantine Mosaic</title>
+			<wiki>http://en.wikipedia.org/wiki/Byzantine_mosaic#Byzantine_mosaics</wiki>
+			<image>Byzantine_Mosaic.jpg</image>
+			<description>
+				Mosaic, an art consisting of a whole work created using many small pieces (almost like a puzzle), dominated the Byzantine culture from the 6th to 15th centuries.
+			</description>
+		</period>
+		<period>
+			<title>Christian Catacombs</title>
+			<wiki>http://en.wikipedia.org/wiki/Catacombs_of_Rome</wiki>
+			<image>Christian_catacombs.jpg</image>
+			<description>
+				The catacombs in Rome, underground passages in which Christians were buried, contain many frescos and sculptures from a vast range of time after the second century.
+			</description>
+		</period>
+		<period>
+			<title>Insular Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Insular_art</wiki>
+			<image>Insular_Art.jpg</image>
+			<description>
+				Insular Art describes the artwork of the British Isles after the fall of Rome. Similar to Celtic Art, Insular Art involved stone monuments, metalwork and ornate manuscript decoration.
+			</description>
+		</period>
+		<period>
+			<title>Crusades</title>
+			<wiki>http://en.wikipedia.org/wiki/Crusades</wiki>
+			<image>Crusades.jpg</image>
+			<description>
+				Due to the different influences based on political control, geography, and time, artwork during the Crusades is a mix of artistic styles from the Middle East and from Western Europe.
+			</description>
+		</period>
+		<period>
+			<title>Medieval Guilds</title>
+			<wiki>http://en.wikipedia.org/wiki/Guild#Medieval_guild</wiki>
+			<image>Medieval_guilds.jpg</image>
+			<description>
+				In the Middle Ages, guilds were a popular gathering point for talented craftsmen in a particular area. They were also places of instruction where masters would instruct apprentices how to craft.
+			</description>
+		</period>
+		<period>
+			<title>Illuminated Manuscripts</title>
+			<wiki>http://en.wikipedia.org/wiki/Illuminated_manuscript</wiki>
+			<image>Illuminated_Manuscripts.jpg</image>
+			<description>
+				Mainly coming out of the Middle Ages, illuminated manuscripts were written documents with elaborate, gilded illustrations.
+			</description>
+		</period>
+		<period>
+			<title>Gothic Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Gothic_art</wiki>
+			<image>Gothic_art.jpg</image>
+			<description>
+				Gothic Art and architecture began in France in the early 1100s and then spread across Europe before ending around 300 years later. Notre Dame in Paris is a classic of the ornate and dramatic Gothic style.
+			</description>
+		</period>
+		<period>
+			<title>Etching</title>
+			<wiki>http://en.wikipedia.org/wiki/Etching</wiki>
+			<image>Etching.jpg</image>
+			<description>
+				Similar to engraving, etching also involves using metal for creation. However, etching uses strong aid or mordant to carve out a design.
+			</description>
+		</period>
+		<period>
+			<title>Tapestry</title>
+			<wiki>http://en.wikipedia.org/wiki/Tapestry</wiki>
+			<image>Tapestry.jpg</image>
+			<description>
+				Tapestry is a textile art created with a vertical loom. Tapestries were used in the Middle Ages for decoration, status, and insulation.
+			</description>
+		</period>
+		<period>
+			<title>Baroque</title>
+			<wiki>http://en.wikipedia.org/wiki/Baroque</wiki>
+			<image>Baroque.jpg</image>
+			<description>
+				Beginning in Rome around 100 AD, Baroque art involved elaborate details and exaggerated emotions in part to make interpretations easier for the masses.
+			</description>
+		</period>
+		<period>
+			<title>Perspective</title>
+			<wiki>http://en.wikipedia.org/wiki/Perspective_%28graphical%29</wiki>
+			<image>Perspective.jpg</image>
+			<description>
+				It is difficult to convey depth when drawing on a flat surface, and that difficulty is noticeable in early paintings. This all changed in the early 15th century when Filippo Brunelleschi, engineer of the Duomo in Florence, sketched the reflection of a building onto a mirror and pioneered the use of perspective in art.
+			</description>
+		</period>
+		<period>
+			<title>Printing Press</title>
+			<wiki>http://en.wikipedia.org/wiki/Printing_press</wiki>
+			<image>Printing_Press.jpg</image>
+			<description>
+				Johannes Gutenberg is credited with inventing the Printing Press in 1450. It allowed for the mass distribution of written materials and the dissemination of knowledge.
+			</description>
+		</period>
+		<period>
+			<title>Medici Family</title>
+			<wiki>http://en.wikipedia.org/wiki/Medici_family</wiki>
+			<image>Medici_Family.jpg</image>
+			<description>
+				The Medici Family were a wealthy political dynasty during the Renaissance that funded much of the artwork in Florence and allowed the city to become an important artistic hub.
+			</description>
+		</period>
+		<period>
+			<title>Renaissance Humanism</title>
+			<wiki>http://en.wikipedia.org/wiki/Renaissance_humanism</wiki>
+			<image>Renaissance_Humanism.jpg</image>
+			<description>
+				The development of Humanism in Art during the Renaissance was a shift from artworks dealing with Christian imagery to more personal subjects.
+			</description>
+		</period>
+		<period>
+			<title>Renaissance Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Renaissance_art</wiki>
+			<image>Renaissance_Art.jpg</image>
+			<description>
+				The Renaissance is defined by a renewed passion in acquiring knowledge, and so it inspired new artistic techniques and produced great artists like Rafael, Donatello, Michalangelo and Leonardo (da Vinci).
+			</description>
+		</period>
+		<period>
+			<title>Fresco</title>
+			<wiki>http://en.wikipedia.org/wiki/Fresco</wiki>
+			<image>Fresco.jpg</image>
+			<description>
+				Fresco, Italian for “fresh”, the technique of painting directly on a freshly plastered wall. This began thousands of years ago but gained enormous popularity during the Italian Renaissance. Michaelangelo’s Sistine Chapel ceiling featuring the iconic The Creation of Adam is a very large fresco.
+			</description>
+		</period>
+		<period>
+			<title>Marble Sculptures</title>
+			<wiki>http://en.wikipedia.org/wiki/Marble_sculpture</wiki>
+			<image>Marble_Sculptures.jpg</image>
+			<description>
+				Often considered to be the pinnacle of marble sculpturing is Michelangelo’s David, a depiction of the Biblical David after his defeat of Goliath. The sculpture is now housed in Florence.
+			</description>
+		</period>
+		<period>
+			<title>Dutch Golden Age</title>
+			<wiki>http://en.wikipedia.org/wiki/Dutch_golden_age_painting</wiki>
+			<image>Dutch_Golden_Age.jpg</image>
+			<description>
+				After gaining independence from Spain, the Netherlands entered a period of great artistic achievement. The semi-Baroque style prevalent during this time in the Netherlands is epitomised by Johannes Vermeer’s The Milkmaid.
+			</description>
+		</period>
+		<period>
+			<title>Chiaroscuro</title>
+			<wiki>http://en.wikipedia.org/wiki/Chiaroscuro</wiki>
+			<image>Chiaroscuro.jpg</image>
+			<description>
+				Italian for “light and dark,” Chiaroscuro is a painting technique that uses bold light and shade and was used extensively by Leonardo da Vinci.
+			</description>
+		</period>
+		<period>
+			<title>Vitruvian Man</title>
+			<wiki>http://en.wikipedia.org/wiki/Vitruvian_man</wiki>
+			<image>Vitruvian_Man.jpg</image>
+			<description>
+				The Vitruvian Man was a drawing by Leonardo da Vinci that illustrated the ideal proportions of the body based on notes by Roman architect Vitruvius.
+			</description>
+		</period>
+		<period>
+			<title>Northern Renaissance</title>
+			<wiki>http://en.wikipedia.org/wiki/Northern_Renaissance</wiki>
+			<image>Northern_Renaissance.jpg</image>
+			<description>
+				The Renaissance in the north borrowed concepts from the earlier Renaissance in Italy. Artwork in this period also focused on humanistic themes powered by the new interest in discovery.
+			</description>
+		</period>
+		<period>
+			<title>Oil Painting</title>
+			<wiki>http://en.wikipedia.org/wiki/Oil_painting</wiki>
+			<image>Oil_Painting.jpg</image>
+			<description>
+				Oil painting, paintings made with pigments of oil, gained popularity during the 15th century. An example of this type of art is Leonardo da Vinci’s Mona Lisa, one of the most iconic artworks ever created.
+			</description>
+		</period>
+		<period>
+			<title>Mannerism</title>
+			<wiki>http://en.wikipedia.org/wiki/Mannerism</wiki>
+			<image>Mannerism.jpg</image>
+			<description>
+				Emerging out of the High Renaissance, Mannerism featured qualities of stylized realism. Mannerist subjects often looked slightly unnatural and configured in implausible ways.  
+			</description>
+		</period>
+		<period>
+			<title>Protestant Reformation</title>
+			<wiki>http://en.wikipedia.org/wiki/Reformation</wiki>
+			<image>Protestant_Reformation.jpg</image>
+			<description>
+				Begun by Martin Luther to rebel against the Catholic Church, the Protestant Reformation evolved into many groups. Some of these were more radical, and considered art to be a useless indulgence.
+			</description>
+		</period>
+		<period>
+			<title>Counter Reformation</title>
+			<wiki>http://en.wikipedia.org/wiki/Counter-reformation</wiki>
+			<image>Counter_Reformation.jpg</image>
+			<description>
+				The counter-reformation was a period of Catholic revival in the 16th and 17th century. The Church enforced strict rules on art during this time to emphasize Christ’s suffering but never depict nudity or other unbecoming behaviour.
+			</description>
+		</period>
+	</era>
+	<era name="Industrial Revolution">
+		<period>
+			<title>Age of Enlightenment</title>
+			<wiki>http://en.wikipedia.org/wiki/Age_of_Enlightenment</wiki>
+			<image>Age_of_Enlightenment.jpg</image>
+			<description>
+				The enlightenment was an age dominated by intellectual pursuits, the rejection of past dogmas, and the promotion of freethinking and individualism. A similarly scholarly approach to art followed.
+			</description>
+		</period>
+		<period>
+			<title>Academic Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Academic_art</wiki>
+			<image>Academic_Art.jpg</image>
+			<description>
+				The rise of art schools, notably the Academie des Beaux Arts in France (founded in 1795), shaped the practice of art. Training was done in Neoclassicism and Romanticism, based on the academic attitude that placed importance on those genres.
+			</description>
+		</period>
+		<period>
+			<title>Rubenistes vs. Poussinistes</title>
+			<wiki>http://en.wikipedia.org/wiki/Peter_Paul_Reubens</wiki>
+			<image>Rubenistes_vs_Poussinistes.jpg</image>
+			<description>
+				Two competing visions of art in the 1800s were the Rubenistes and the Poussinistes, inspired by Nicolas Poussin and Peter Paul Rubens. Rubenistes preferred aggressive colouring, while Pousinistes harkened back to the drawings of the Classical period.
+			</description>
+		</period>
+		<period>
+			<title>Rococo</title>
+			<wiki>http://en.wikipedia.org/wiki/Rococo</wiki>
+			<image>Rococo.jpg</image>
+			<description>
+				Rococo is a genre of art during the 18th century that emphasized soft colors, extravagance, and ornate decorations. Rococo was viewed dimly for decades after its popularity.
+			</description>
+		</period>
+		<period>
+			<title>Neoclassicism</title>
+			<wiki>http://en.wikipedia.org/wiki/Neoclassicism</wiki>
+			<image>Neo-classicism.jpg</image>
+			<description>
+				Neoclassicism is an 18th century revival in art of the styles and inspirations found in the cultures of Ancient Greece and Rome.
+			</description>
+		</period>
+		<period>
+			<title>Louvre Opens</title>
+			<wiki>http://en.wikipedia.org/wiki/Louvre</wiki>
+			<image>Louvre_Opens.jpg</image>
+			<description>
+				One of the world’s largest museums and a landmark of Paris, the Louvre’s collection includes many famous works including the Mona Lisa. The Louvre opened in 1793, and added a controversial pyramidal glass façade in 1989.
+			</description>
+		</period>
+		<period>
+			<title>Lithography</title>
+			<wiki>http://en.wikipedia.org/wiki/Lithography</wiki>
+			<image>Lithography.jpg</image>
+			<description>
+				Lithography is a way of drawing and printing by using a soft stone (limestone originally), ink, and oils. It was popular for map-making, but also used for artistic works by artists such as Picasso, MC Escher, and Vincent Van Gogh.
+			</description>
+		</period>
+		<period>
+			<title>Industrial Revolution</title>
+			<wiki>http://en.wikipedia.org/wiki/Industrial_Revolution</wiki>
+			<image>Industrial_Revolution.jpg</image>
+			<description>
+				The Industrial Revolution was a period of rapid manufacturing growth in the 18th an 19th centuries. The increase of factories and capitalism was welcomed by some, but also denounced by many in the art community who mourned the loss of nature and beauty in the world.
+			</description>
+		</period>
+		<period>
+			<title>Editorial Cartoons</title>
+			<wiki>http://en.wikipedia.org/wiki/Editorial_cartoons</wiki>
+			<image>Editorial_Cartoons.jpg</image>
+			<description>
+				Editorial (or Political) cartoons satirize current events using illustration. They can be innocent and funny, inflammatory, or in some cases – like Benjamin Franklin’s Join, or Die – incite revolution.
+			</description>
+		</period>
+		<period>
+			<title>Romanticism</title>
+			<wiki>http://en.wikipedia.org/wiki/Romanticism</wiki>
+			<image>Romanticism.jpg</image>
+			<description>
+				A reaction to an increase in scientific thought in the enlightenment and capitalism during the Industrial revolution, the Romantic Movement in art tried to evoke simpler times by relying on the feelings of an artist rather than rational thought.
+			</description>
+		</period>
+		<period>
+			<title>Daguerrotype</title>
+			<wiki>http://en.wikipedia.org/wiki/Daguerrotype</wiki>
+			<image>Daguerrotype.jpg</image>
+			<description>
+				Daguerreotype was the first commercially successful photographic process. The technology was invented in the early 19th century by Louis-Jacques-Mande-Daguerre.
+			</description>
+		</period>
+		<period>
+			<title>Photography</title>
+			<wiki>http://en.wikipedia.org/wiki/Photography</wiki>
+			<image>Photography.jpg</image>
+			<description>
+				The first successful photograph was View from the Window at Le Gras, taken by Nicéphore Niépce in 1826. Though crude, it paved the way for photography to become an incredibly popular art form in the 20th century.
+			</description>
+		</period>
+		<period>
+			<title>Stereoscopy</title>
+			<wiki>http://en.wikipedia.org/wiki/3D_imaging</wiki>
+			<image>Stereoscopy.jpg</image>
+			<description>
+				The invention of two-lens cameras able to capture the essence of three dimensions occurred in 1849. Stereophotographs viewed through stereoscopes were immensely popular in the late 19th century, and the concept of 3D imaging has renewed with the recent trend of its use in film.
+			</description>
+		</period>
+		<period>
+			<title>Realism</title>
+			<wiki>http://en.wikipedia.org/wiki/Realism_%28arts%29</wiki>
+			<image>Realism.jpg</image>
+			<description>
+				Realism in art is the attempt to portray a subject as the way it actually exists. It is the artist’s job to represent the subject accurately, without stylistic flourishes.
+			</description>
+		</period>
+		<period>
+			<title>En Plein Air</title>
+			<wiki>http://en.wikipedia.org/wiki/En_plein_air</wiki>
+			<image>En_Plein_Air.jpg</image>
+			<description>
+				Translates directly from French to “in the open air,” En Plein Air is the term used for painting outdoors. This became a particularly popular activity in the late 19th century after paint tubes became commercially available.
+			</description>
+		</period>
+		<period>
+			<title>Impressionism</title>
+			<wiki>http://en.wikipedia.org/wiki/Impressionism</wiki>
+			<image>Impressionism.jpg</image>
+			<description>
+				Impressionism is an art movement from the late 19th century that includes the work of French artists Manet and Monet. Impressionism is defined by its visual brush strokes, movement, and seemingly spontaneous nature.
+			</description>
+		</period>
+		<period>
+			<title>Post-Impressionism</title>
+			<wiki>http://en.wikipedia.org/wiki/Post-Impressionism</wiki>
+			<image>Post_Impressionism.jpg</image>
+			<description>
+				After Impressionism began to wane, Post-Impressionism took hold. An extension of the ideas of impressionism, Post-impressionism was lead by the work of Paul Cezanne.
+			</description>
+		</period>
+		<period>
+			<title>Salon des Refuses</title>
+			<wiki>http://en.wikipedia.org/wiki/Salon_des_Refus%C3%A9s</wiki>
+			<image>Salon_des_Refuses.jpg</image>
+			<description>
+				In 1863, the French government sponsored an art exhibition as selected by the Paris Salon. Many works were rejected, including Manet’s now acclaimed The Luncheon on the Grass. This work, along with others, were exhibited in the Salon des Refuses (“exhibition of rejects”). The term is still used for any showcase of rejected art.
+			</description>
+		</period>
+	</era>
+	<era name="Modernism">
+		<period>
+			<title>Art Noveau</title>
+			<wiki>http://en.wikipedia.org/wiki/Art_Noveau</wiki>
+			<image>Art_Noveau.jpg</image>
+			<description>
+				A decorative style of architecture at the turn of the 20th century, Art Noveau (New Art) attempted to raise crafts to the level of art. It was called “Modernista” in Spain, notably for the designs of Gaudi.
+			</description>
+		</period>		
+		<period>
+			<title>Fauvism</title>
+			<wiki>http://en.wikipedia.org/wiki/Fauvism</wiki>
+			<image>Fauvism.jpg</image>
+			<description>
+				Coined by a critic to mean “beastly” art, Fauvists – led by Henri Matisse – were a group of artists that indulged in flatness and bold colors.
+			</description>
+		</period>
+		<period>
+			<title>Cubism</title>
+			<wiki>http://en.wikipedia.org/wiki/Cubism</wiki>
+			<image>Cubism.jpg</image>
+			<description>
+				A style of abstract art that was a concurrent reaction to the Fauvists, cubism is best exemplified by the work of Pablo Picasso in the early 20th century.
+			</description>
+		</period>		
+		<period>
+			<title>Expressionism</title>
+			<wiki>http://en.wikipedia.org/wiki/Expressionism</wiki>
+			<image>Expressionism.jpg</image>
+			<description>
+				Expressionism is a movement within the modern era that is concerns the artist’s emotional viewpoint towards his or her surroundings. This feeling is well presented in Edvard Munch’s The Scream.
+			</description>
+		</period>
+		<period>
+			<title>Fantasy</title>
+			<wiki>http://en.wikipedia.org/wiki/Nude_Descending_a_Staircase,_No._2</wiki>
+			<image>Fantasy.jpg</image>
+			<description>
+				Fantasy describes painting and painters that focus more on the imagination than the real world. Marcel Duchamp is a notable Fantasy painter, with his Nude Descending a Staircase, No. 2  a controversial example of the genre.
+			</description>
+		</period>		
+		<period>
+			<title>Arts and Crafts Movement</title>
+			<wiki>http://en.wikipedia.org/wiki/Arts_and_Crafts_movement</wiki>
+			<image>Arts_and_Crafts_Movement.jpg</image>
+			<description>
+				The Arts and Crafts movement was a reaction against the machine age of creation. William Morris, a proponent of the movement, sought to make art “made by the people, for the people, as a happiness to the maker and the user.”
+			</description>
+		</period>
+		<period>
+			<title>Color Photography</title>
+			<wiki>http://en.wikipedia.org/wiki/Color_photography</wiki>
+			<image>Color_Photography.jpg</image>
+			<description>
+				Though developed first by Louie Lumiere in 1907 and refined by Kodak in the 1930s, color photography did not have as big an impact on the art world as black in white, though its use is predominate in our world today.
+			</description>
+		</period>		
+		<period>
+			<title>Abstract Expressionism</title>
+			<wiki>http://en.wikipedia.org/wiki/Abstract_expressionism</wiki>
+			<image>Abstract_Expressionism.jpg</image>
+			<description>
+				Jackson Pollock’s work in drip painting is an example of Abstract Expressionism, an artwork that sets to achieve creation spontaneously.
+			</description>
+		</period>
+		<period>
+			<title>Color Field Paintings</title>
+			<wiki>http://en.wikipedia.org/wiki/Color_field_painting</wiki>
+			<image>Color_Field_Painting.jpg</image>
+			<description>
+				Color Field Painting is an example of modernist art. It involves paintings that consist of large blocks of singular color. Mark Rothko was a pioneer of this style with his melancholic 1957 piece, White and Greens in Blue.
+			</description>
+		</period>		
+		<period>
+			<title>Conceptual Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Conceptual_art</wiki>
+			<image>Conceptual_Art.jpg</image>
+			<description>
+				Conceptual Art focuses on the idea of the piece and the imaginative process necessary for it, rather than its technical or aesthetic merits. Joseph Kosuth’s One and Three Chairs (which features a chair, a picture of a chair, and a printed definition of a chair) is an example of conceptual art.
+			</description>
+		</period>
+		<period>
+			<title>Minimalism</title>
+			<wiki>http://en.wikipedia.org/wiki/Minimalism_%28visual_arts%29</wiki>
+			<image>Minimalism.jpg</image>
+			<description>
+				In minimalism, the artist is concerned with eliminating any superfluous details in order to find the true identity of the subject. An example of this style is Red Blue Green by Ellsworth Kells.
+			</description>
+		</period>		
+		<period>
+			<title>Performance Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Performance_art</wiki>
+			<image>Performance_Art.jpg</image>
+			<description>
+				Performance Art, which emerged in the 1960s and 70s, is an artistic piece performed by the artist that typically challenges the perception of art itself. A notable example is Marina Abromovic’s The Artist is Present, in which she sat motionless at the Museum of Modern Art and invited patrons to sit across from her.
+			</description>
+		</period>
+		<period>
+			<title>Postmodernism</title>
+			<wiki>http://en.wikipedia.org/wiki/Postmodernism</wiki>
+			<image>Postmodernism.jpg</image>
+			<description>
+				Postmodernism is the period that follows Modernism, and rejects the notion that Modernism defines the current age. In fact, Postmodernists reject much of past dogmas, declaring that there is no objective viewpoint on culture.
+			</description>
+		</period>		
+		<period>
+			<title>Pop Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Pop_art</wiki>
+			<image>Pop_Art.jpg</image>
+			<description>
+				Andy Warhol was a renowned practitioner of Pop Art, a type of art that utilizes pop culture imagery. Warhol’s works frequently depicted Campbell’s soup branding and Marilyn Monroe.
+			</description>
+		</period>
+		<period>
+			<title>Roland Barthes' Semiotics</title>
+			<wiki>http://en.wikipedia.org/wiki/Barthes#Semiotics_and_myth</wiki>
+			<image>Roland_Barthes_Semiotics.jpg</image>
+			<description>
+				Roland Barthes examined the coded messages in art and how they are interpreted. For example he considered a still life painting of a bottle of wine to signify the robustness of a bourgeois culture.
+			</description>
+		</period>		
+		<period>
+			<title>Film</title>
+			<wiki>http://en.wikipedia.org/wiki/Film</wiki>
+			<image>Film.jpg</image>
+			<description>
+				The beginnings of motion pictures came from Eadweard Muybridge, who captured a horse galloping in order to prove that it raised all four legs off the ground. Silent pictures became popular in the early 20th century, before sound was first incorporated in 1927’s The Jazz Singer.
+			</description>
+		</period>
+		<period>
+			<title>Readymades of Marcel Duchamp</title>
+			<wiki>http://en.wikipedia.org/wiki/Readymades_of_Marcel_Duchamp</wiki>
+			<image>Readymades_of_Marcel_Duchamp.jpg</image>
+			<description>
+				Marcel Duchamp created artwork from slightly altered found objects. This controversially called into question the definition of art itself. A work of his from 1917: a urinal tilted on its side, signed “R. Mutt” and called Fountain.
+			</description>
+		</period>		
+		<period>
+			<title>World War I</title>
+			<wiki>http://en.wikipedia.org/wiki/World_War_I_in_popular_culture#Art</wiki>
+			<image>World_War_I.jpg</image>
+			<description>
+				A dark and bloody period in human history that was reflected by honest depictions of battle in painting, such as John Singer Sargent’s Gassed and John Nash’s Over The Top.
+			</description>
+		</period>
+		<period>
+			<title>Dada</title>
+			<wiki>http://en.wikipedia.org/wiki/Dada</wiki>
+			<image>Dada.jpg</image>
+			<description>
+				Dadaists responded to the negativity of the First World War by reacting artistically with irrationality and intuition. Much of Dadaism was antithetical to common practices, and so it was often called “anti-art.”
+			</description>
+		</period>		
+		<period>
+			<title>Futurism</title>
+			<wiki>http://en.wikipedia.org/wiki/Futurism</wiki>
+			<image>Futurism.jpg</image>
+			<description>
+				The Futurism Movement, which began in Italy, attempted to capture visions of the future with art. This future was industrial and stark – futurists claimed that there was “no beauty except in strife.”
+			</description>
+		</period>
+		<period>
+			<title>Social Realism</title>
+			<wiki>http://en.wikipedia.org/wiki/Social_realism</wiki>
+			<image>Social_Realism.jpg</image>
+			<description>
+				Social Realism art depicted life as it was, and often called attention to the plight of the working class. An example of Social Realist art is American Gothic by Grant Wood.
+			</description>
+		</period>		
+		<period>
+			<title>Socialist Realism</title>
+			<wiki>http://en.wikipedia.org/wiki/Socialist_Realism </wiki>
+			<image>Socialist_Realism.jpg</image>
+			<description>
+				A form of art endorsed by the state through Joseph Stalin, Socialist Realist artists in Russia attempted to demonstrate the communist life, while still glorifying it.
+			</description>
+		</period>
+		<period>
+			<title>Constructivism</title>
+			<wiki>http://en.wikipedia.org/wiki/Constructivism_%28art%29</wiki>
+			<image>Constructivism.jpg</image>
+			<description>
+				Emerging out of Russia after the revolution, Constructivism was a new way of looking at the making of art. Constructivists were more interested in the functionality of a work and the materials involved in its creation than they were in its beauty.
+			</description>
+		</period>		
+		<period>
+			<title>Surrealism</title>
+			<wiki>http://en.wikipedia.org/wiki/Surrealism</wiki>
+			<image>Surrealism.jpg</image>
+			<description>
+				Artists working in Surrealism attempted to create their works through the use of the unconscious mind. Surreal art was often outrageous and strange as a result. Prominent surrealists include Salvador Dali (Lobster Telephone) and Rene Magritte (Son of Man).
+			</description>
+		</period>
+		<period>
+			<title>Bahaus</title>
+			<wiki>http://en.wikipedia.org/wiki/Bahaus</wiki>
+			<image>Bahaus.jpg</image>
+			<description>
+				Bahaus was a highly influential art school that began in 1920s Germany that focused on the intersection between art and manufacturing. It had an enormous effect on Modernist Architecture.
+			</description>
+		</period>		
+		<period>
+			<title>Art Deco</title>
+			<wiki>http://en.wikipedia.org/wiki/Art_deco</wiki>
+			<image>Art_Deco.jpg</image>
+			<description>
+				Art Deco was created during the opulence of 1920s France, and thrived until the depression. Indicative of its era, Art Deco featured bold, decorative and shiny designs. A particularly tall example of Art Deco is the Chrysler Building in New York City.
+			</description>
+		</period>
+		<period>
+			<title>War Propaganda</title>
+			<wiki>http://en.wikipedia.org/wiki/Propaganda</wiki>
+			<image>Propaganda.jpg</image>
+			<description>
+				Instrumental during the First and Second World Wars, War Propaganda involved the use of art geared to gather support from a country’s citizens. This extended to Nazi films as well as iconic posters like We Can Do It!
+			</description>
+		</period>		
+		<period>
+			<title>Video Tape Recorder (VTR)</title>
+			<wiki>http://en.wikipedia.org/wiki/Vtr</wiki>
+			<image>Video_Tape_Recorder.jpg</image>
+			<description>
+				The Video Tape Recorder (VTR), allowed film to be recorded easier and later become more available to the masses with the introduction of the Videocassette recorder (VCR). This ushered in a new period of home entertainment.
+			</description>
+		</period>
+		<period>
+			<title>Op Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Op_art</wiki>
+			<image>Op_Art.jpg</image>
+			<description>
+				Op Art is a discipline that trended in the 1950s and featured works based on illusion. Op Artists used science and technology in their works in order to achieve maximum illusionist effect.  
+			</description>
+		</period>		
+		<period>
+			<title>Post-minimalism</title>
+			<wiki>http://en.wikipedia.org/wiki/Post-minimalism</wiki>
+			<image>Post_Minimalism.jpg</image>
+			<description>
+				Exemplified by Joel Shapiro’s sculpturing, post-minimalism captured the essence of minimalism while still becoming more complex.  
+			</description>
+		</period>
+		<period>
+			<title>New York as Art Center</title>
+			<wiki>http://en.wikipedia.org/wiki/MoMA</wiki>
+			<image>New_York_City.jpg</image>
+			<description>
+				During the Second World War, many surrealists and Abstract Expressionists found a home in New York City. Among many other galleries, New York City holds the Guggenheim and the Museum of Modern Art (MoMA).
+			</description>
+		</period>		
+		<period>
+			<title>Greenberg's Flatness</title>
+			<wiki>http://en.wikipedia.org/wiki/Clement_Greenberg</wiki>
+			<image>Greenbergs_Flatness.jpg</image>
+			<description>
+				In his writing on Modernism, art critic Clement Greenberg argued that Cubism and Abstract Expressionism separated themselves from other movements by their depiction of the two-dimensional canvas as just that – flat.
+			</description>
+		</period>
+		<period>
+			<title>Post-postmodernism</title>
+			<wiki>http://en.wikipedia.org/wiki/Post-postmodernism</wiki>
+			<image>Post_postmodernism.jpg</image>
+			<description>
+				A recent trend that encompasses artists, groups, and critics that consider the Post-modern movement over. The Stuckism movement in England aims get back to figurative painting as a rebellion to conceptual art.
+			</description>
+		</period>		
+		<period>
+			<title>Photorealism</title>
+			<wiki>http://en.wikipedia.org/wiki/Photorealism</wiki>
+			<image>Photorealism.jpg</image>
+			<description>
+				Inspired by photography and Pop Art, photorealist paintings used photographs as the basis of their paintings. The result is eerily realistic, but contrasts with photographs with the use of focus.
+			</description>
+		</period>
+		<period>
+			<title>Earth Art</title>
+			<wiki>http://en.wikipedia.org/wiki/Earth_art</wiki>
+			<image>Earth_Art.jpg</image>
+			<description>
+				A Modern extension from prehistoric constructions like Stonehenge, Earth Art makes art part of the living landscape. Built in 1970 by Robert Smithson, Spiral Jetty juts out of the Great Salt Lake almost 500 metres and curls in upon itself.
+			</description>
+		</period>		
+		<period>
+			<title>Graffiti</title>
+			<wiki>http://en.wikipedia.org/wiki/Graffiti</wiki>
+			<image>Graffiti.jpg</image>
+			<description>
+				Graffiti is writing or drawing on property, both permitted or not. An early example is the “Alexamenos graffito,” Roman grafitti that may date back to the 1st century that is considered to be one of the earliest depictions of Jesus Christ. A modern master of the medium is Banksy, whose real identity is unknown.
+			</description>
+		</period>
+		<period>
+			<title>New Media Art</title>
+			<wiki>http://en.wikipedia.org/wiki/New_media_art</wiki>
+			<image>New_Media_Art.jpg</image>
+			<description>
+				New Media Art is any art created with the advent of digital technologies, including virtual art, Internet art, and computer generated art.
+			</description>
+		</period>		
+		<period>
+			<title>Computer Generated Imagery (CGI)</title>
+			<wiki>http://en.wikipedia.org/wiki/Computer-generated_imagery</wiki>
+			<image>Computer_Generated_Imagery.jpg</image>
+			<description>
+				Computer Generated Imagery (CGI) is the creation of visuals using computers. This can be extended to art, video games, and film (the first full-length CGI film was Toy Story in 1995).
+			</description>
+		</period>
+	</era>
+</art>
