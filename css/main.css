@@ -58,7 +58,7 @@ a:hover {
 #content {
     position:relative;
     z-index:2000;
-    padding:40px 0;
+    padding:70px 0;
 }
 
 #backgrounds {
@@ -375,6 +375,7 @@ html.popup-visible #container {
     display:inline-block;
     padding-right:54px;
     line-height:70px;
+    letter-spacing: -2px;
     height:70px;
 }
 
@@ -383,9 +384,9 @@ html.popup-visible #container {
     position: absolute;
     right: 0;
     top: 50%;
-    margin-top: -17px;
+    margin-top: -11px;
     width: 34px;
-    height: 34px;
+    height: 18px;
     overflow: hidden;
     -webkit-transition: opacity 0.5s, height 0.5s, margin-top 0.5s;
     -moz-transition: opacity 0.5s, height 0.5s, margin-top 0.5s;
@@ -394,25 +395,17 @@ html.popup-visible #container {
     transition: opacity 0.5s, height 0.5s, margin-top 0.5s;
 }
 
-html.popup-visible #container h2 .arrow {
-    opacity:0;
-}
-
-#container .era.open h2 .arrow {
-
-}
-
 #container h2 .arrow .left,
 #container h2 .arrow .right {
     display:block;
     position:absolute;
     width:24px;
     border-top:solid 1px #000;
-    -webkit-transition: top 0.5s, left 0.5s;
-    -moz-transition: top 0.5s, left 0.5s;
-    -o-transition: top 0.5s, left 0.5s;
-    -ms-transition: top 0.5s, left 0.5s;
-    transition: top 0.5s, left 0.5s;
+    -webkit-transition: border 0.5s, left 0.5s;
+    -moz-transition: border 0.5s, left 0.5s;
+    -o-transition: border 0.5s, left 0.5s;
+    -ms-transition: border 0.5s, left 0.5s;
+    transition: border 0.5s, left 0.5s;
 }
 
 #container h2 .arrow .left {
@@ -431,7 +424,6 @@ html.popup-visible #container h2 .arrow {
 }
 
 #container .era.open h2 .arrow .left {
-    top:8px;
     left:9px;
 }
 
@@ -451,8 +443,12 @@ html.popup-visible #container h2 .arrow {
 }
 
 #container .era.open h2 .arrow .right {
-    top:8px;
     left:1px;
+}
+
+html.popup-visible #container h2 .arrow .left,
+html.popup-visible #container h2 .arrow .right {
+    border-top-color:#FFF;
 }
 
 
