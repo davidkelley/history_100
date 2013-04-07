@@ -1,5 +1,9 @@
 define(['jquery'], function($) {
 
+	$(window).ready(function() {
+		$('#early-history h2').click();
+	});
+
 	return {
 		toggle: function(el, e) {
 

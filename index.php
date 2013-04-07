@@ -81,8 +81,8 @@
                 <div class="popup-background popup-alternate"></div>
                 <h1>The History of Art in <br/>100 Words</h1>
                 <? foreach($xml->era as $era): ?>
-                <? $era_key = $era->attributes()->name; ?>
-                <div class="era closed">
+                <? $era_key = get_key($era->attributes()->name); ?>
+                <div id="<?= $era_key ?>" class="era closed">
                     <h2 data-event="click" data-action="era/toggle">
                         <?= $era->attributes()->name ?>
                         <span class="arrow">

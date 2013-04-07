@@ -72,6 +72,9 @@ requirejs.config({
 //init modernizr
 require(['components/modernizr']);
 
+//init era module
+require(['era']);
+
 //init loading module
 require(['helpers/binder', 'helpers/binds'], function(Binder, binds) {
 	new Binder(binds);
