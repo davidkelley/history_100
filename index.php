@@ -93,7 +93,7 @@
                     <div class="periods">
                         <? foreach($era->period as $period): ?>
                         <? $period_key = $period->title; ?>
-                        <span data-event="click" data-action="period/show" data-period="<?= $period_key ?>" data-era="<?= $era_key; ?>"><?= $period->title; ?>.</span>
+                        <span data-event="click" data-action="period/show" data-period="<?= $period_key ?>" data-era="<?= $era->attributes()->name ?>"><?= $period->title; ?>.</span>
                         <? endforeach; ?>
                     </div>
                 </div>
